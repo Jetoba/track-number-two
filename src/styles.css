@@ -86,7 +86,7 @@ body {
   :root {
     --content-max-width: 900px;
     --screen-padding: 40px;
-    --text-size: 2rem;
+    --text-size: 1.67rem;
     --text-line-height: 1.5;
   }
 }
